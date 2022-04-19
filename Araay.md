@@ -1,6 +1,6 @@
 # NOTE ARAAY
 ..d
-<pra>
+<pre>
 Int a=1
 
 <pre>
